@@ -1,0 +1,167 @@
+<ImportExportXml version="9.2.26091.157" SolutionPackageVersion="9.2" languagecode="1046" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.26091.157" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.26091.00157">
+  <SolutionManifest>
+    <UniqueName>AvEquipmentRental</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="Av Equipment Rental" languagecode="1046" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.1</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>KelvinPortfolio</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="Kelvin Portfolio" languagecode="1046" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>kav</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>84176</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="account" behavior="1" />
+      <RootComponent type="1" schemaName="contact" behavior="1" />
+      <RootComponent type="1" schemaName="kav_equipment" behavior="0" />
+      <RootComponent type="1" schemaName="kav_rental" behavior="0" />
+      <RootComponent type="1" schemaName="kav_rentalinvoice" behavior="0" />
+      <RootComponent type="1" schemaName="knowledgearticle" behavior="1" />
+      <RootComponent type="1" schemaName="msdyn_kbattachment" behavior="1" />
+      <RootComponent type="62" schemaName="kav_AVEquipmentRentalAdmin" behavior="0" />
+      <RootComponent type="80" schemaName="kav_AVEquipmentRentalAdmin" behavior="0" />
+      <RootComponent type="300" schemaName="kav_alerts_41538" behavior="0" />
+      <RootComponent type="300" schemaName="kav_auctions_f7370" behavior="0" />
+      <RootComponent type="300" schemaName="kav_equipmentmanagement_40920" behavior="0" />
+      <RootComponent type="300" schemaName="kav_invoicespage_ed711" behavior="0" />
+      <RootComponent type="300" schemaName="kav_page1_46b07" behavior="0" />
+      <RootComponent type="300" schemaName="kav_rentalmanagement_0e42e" behavior="0" />
+      <RootComponent type="431" schemaName="kav_equipment kav_productimage" behavior="0" />
+      <RootComponent type="432" schemaName="kav_equipment" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_kbattachment" displayName="Anexo do Artigo de Conhecimento" solution="msdynce_KnowledgeManagementFeatures (9.0.26085.3002)">
+          <package appName="msdynce_KnowledgeManagement" version="9.0.26085.3002">msdynce_KnowledgeManagementAnchor (9.0.26085.3002)</package>
+        </Required>
+        <Dependent type="1" schemaName="msdyn_kbattachment" displayName="Anexo do Artigo de Conhecimento" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_kbattachment" displayName="Anexo do Artigo de Conhecimento" solution="msdynce_KnowledgeManagementFeatures (9.0.26085.3002)">
+          <package appName="msdynce_KnowledgeManagement" version="9.0.26085.3002">msdynce_KnowledgeManagementAnchor (9.0.26085.3002)</package>
+        </Required>
+        <Dependent type="26" schemaName="AV Equipment Rental bot Answers" displayName="AV Equipment Rental bot Answers" parentSchemaName="msdyn_kbattachment" parentDisplayName="Anexo do Artigo de Conhecimento" id="{5aed0220-4d79-48e5-8d26-61b51e20bfe9}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_kbattachment" displayName="Anexo do Artigo de Conhecimento" solution="msdynce_KnowledgeManagementFeatures (9.0.26085.3002)">
+          <package appName="msdynce_KnowledgeManagement" version="9.0.26085.3002">msdynce_KnowledgeManagementAnchor (9.0.26085.3002)</package>
+        </Required>
+        <Dependent type="DVFileSearchEntity" id="{04f16d4a-f4c4-48d3-bd5f-51f1f7881d85}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="msdyn_contentstore" displayName="Referência de conteúdo do armazenamento de arquivos" parentSchemaName="knowledgearticle" parentDisplayName="Artigo de Conhecimento" solution="msdynce_KnowledgeManagementPatch (9.0.26085.3002)">
+          <package appName="msdynce_KnowledgeManagement" version="9.0.26085.3002">msdynce_KnowledgeManagementAnchor (9.0.26085.3002)</package>
+        </Required>
+        <Dependent type="26" schemaName="AV Equipment Rental bot Answers" displayName="AV Equipment Rental bot Answers" parentSchemaName="knowledgearticle" parentDisplayName="Artigo de Conhecimento" id="{94cee827-2f1d-472b-aebc-d98244b193a4}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="msdyn_contentstore" displayName="Referência de conteúdo do armazenamento de arquivos" parentSchemaName="knowledgearticle" parentDisplayName="Artigo de Conhecimento" solution="msdynce_KnowledgeManagementPatch (9.0.26085.3002)">
+          <package appName="msdynce_KnowledgeManagement" version="9.0.26085.3002">msdynce_KnowledgeManagementAnchor (9.0.26085.3002)</package>
+        </Required>
+        <Dependent type="DVFileSearchAttribute" displayName="ppages_23ad94fd-fc1f-46c8-b693-b443d21883a1.msdyn_contentstore" id.uniquename="ppages_23ad94fd-fc1f-46c8-b693-b443d21883a1.msdyn_contentstore" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="msdyn_fileattachment" displayName="Anexo do Arquivo" parentSchemaName="msdyn_kbattachment" parentDisplayName="Anexo do Artigo de Conhecimento" solution="msdynce_KnowledgeManagementFeatures (9.0.26085.3002)">
+          <package appName="msdynce_KnowledgeManagement" version="9.0.26085.3002">msdynce_KnowledgeManagementAnchor (9.0.26085.3002)</package>
+        </Required>
+        <Dependent type="26" schemaName="AV Equipment Rental bot Answers" displayName="AV Equipment Rental bot Answers" parentSchemaName="msdyn_kbattachment" parentDisplayName="Anexo do Artigo de Conhecimento" id="{5aed0220-4d79-48e5-8d26-61b51e20bfe9}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="msdyn_fileattachment" displayName="Anexo do Arquivo" parentSchemaName="msdyn_kbattachment" parentDisplayName="Anexo do Artigo de Conhecimento" solution="msdynce_KnowledgeManagementFeatures (9.0.26085.3002)">
+          <package appName="msdynce_KnowledgeManagement" version="9.0.26085.3002">msdynce_KnowledgeManagementAnchor (9.0.26085.3002)</package>
+        </Required>
+        <Dependent type="DVFileSearchAttribute" displayName="ppages_970c82b4-c65d-44d7-9aa6-35cc4029ce1e.msdyn_fileattachment" id.uniquename="ppages_970c82b4-c65d-44d7-9aa6-35cc4029ce1e.msdyn_fileattachment" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="61" schemaName="msdyn_/Images/AppModule_Default_Icon.png" displayName="msdyn_/Images/AppModule_Default_Icon.png" solution="AppModuleWebResources (2.5)">
+          <package appName="AppModule Web Resources Package" version="2.5">AppModuleWebResources (2.5)</package>
+        </Required>
+        <Dependent type="80" schemaName="kav_AVEquipmentRentalAdmin" displayName="AV Equipment Rental Admin" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="SettingDefinition" displayName="AppChannel" solution="msdyn_AppFrameworkInfraExtensions (1.0.0.20)" id.uniquename="AppChannel">
+          <package appName="PowerAppsAppFramework Package" version="1.0.0.25">PowerAppsAppFramework_Anchor (1.0.0.25)</package>
+        </Required>
+        <Dependent type="AppSetting" displayName="parentappmoduleid.uniquename=kav_AVEquipmentRentalAdmin,settingdefinitionid.uniquename=AppChannel" id.parentappmoduleid.uniquename="kav_AVEquipmentRentalAdmin" id.settingdefinitionid.uniquename="AppChannel" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="account" displayName="Account" parentSchemaName="" solution="System (5.0)" />
+        <Dependent type="1" schemaName="account" displayName="Account" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="contact" displayName="Contact" parentSchemaName="" solution="msdynce_PortalPrivacyExtensions (9.2.10.0)" />
+        <Dependent type="1" schemaName="contact" displayName="Contact" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="knowledgearticle" displayName="KnowledgeArticle" parentSchemaName="" solution="msdynce_KnowledgeManagementFeatures (9.0.26085.3002)" />
+        <Dependent type="1" schemaName="knowledgearticle" displayName="KnowledgeArticle" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>

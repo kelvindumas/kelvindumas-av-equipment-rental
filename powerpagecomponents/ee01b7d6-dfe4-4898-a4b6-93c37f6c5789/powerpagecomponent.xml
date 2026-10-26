@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="ee01b7d6-dfe4-4898-a4b6-93c37f6c5789">
+  <content>{"value":"true"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Authentication/Registration/ExternalLoginEnabled</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

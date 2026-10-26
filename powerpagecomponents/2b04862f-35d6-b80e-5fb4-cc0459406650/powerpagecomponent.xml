@@ -1,0 +1,30 @@
+<powerpagecomponent powerpagecomponentid="2b04862f-35d6-b80e-5fb4-cc0459406650">
+  <content>{
+  "filecontent": null,
+  "displayorder": 2,
+  "customcss": "",
+  "customjavascript": "",
+  "pagetemplateid": "e13cf035-3902-45f2-b58e-efa1b43de03c",
+  "parentpageid": "436dc4d7-1869-49c3-9c74-d10893a9df68",
+  "partialurl": "Request-a-rental-deleted",
+  "isroot": true,
+  "title": "Request a rental",
+  "summary": "&lt;p&gt;This is a sample landing page designed to be a starting point for your website&lt;/p&gt;",
+  "copy": "",
+  "publishingstateid": "a6962af8-c08b-42b7-87f7-955e11e268d3",
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "hiddenfromsitemap": true,
+  "sharedpageconfiguration": false
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Request a rental-deleted</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <searchcontent>Request a rentalRequest a rental-deleted</searchcontent>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</powerpagecomponent>

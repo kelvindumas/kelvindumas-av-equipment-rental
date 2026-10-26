@@ -1,0 +1,19 @@
+<powerpagecomponent powerpagecomponentid="91b10f82-dad3-179e-0b60-c654e57d4be7">
+  <content>{
+  "filecontent": null,
+  "type": 756150000,
+  "display_name": "Logo URL",
+  "value": "/av-rental-logo-horizontal-light.png"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Logo URL</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>516cdf3e-8ed3-4925-8ed4-4994eeda09da</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,31 @@
+<powerpagecomponent powerpagecomponentid="28646c61-bd40-49f4-8212-8d8ce0e29522">
+  <content>{
+  "filecontent": null,
+  "entityname": "Rental - Create",
+  "entitylogicalname": "kav_rental",
+  "scope": 756150000,
+  "append": true,
+  "appendto": true,
+  "delete": false,
+  "read": false,
+  "create": true,
+  "write": false,
+  "parentrelationship": null,
+  "parententitypermission": null,
+  "contactrelationship": null,
+  "accountrelationship": null,
+  "childTablePermissions": [],
+  "adx_entitypermission_webrole": [
+    "a302bdfd-c0be-427e-a37a-9f5ec2fc7a5a"
+  ],
+  "permissionfetchxml": null
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Rental - Create</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

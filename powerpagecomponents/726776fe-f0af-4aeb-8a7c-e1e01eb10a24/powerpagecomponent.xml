@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="726776fe-f0af-4aeb-8a7c-e1e01eb10a24">
+  <content>{"status":"enable","selectedThemeId":"custom-ai-theme","siteSettingId":"726776fe-f0af-4aeb-8a7c-e1e01eb10a24","version":"V2"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ThemeFeature</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

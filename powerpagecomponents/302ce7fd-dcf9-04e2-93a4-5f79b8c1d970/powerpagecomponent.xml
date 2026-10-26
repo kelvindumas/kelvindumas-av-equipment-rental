@@ -1,0 +1,21 @@
+<powerpagecomponent powerpagecomponentid="302ce7fd-dcf9-04e2-93a4-5f79b8c1d970">
+  <content>{
+  "displayorder": 3,
+  "weblinksetid": "ca1ec4b2-2d0e-4d99-984d-b67f2b950a36",
+  "pageid": "a13261a1-85a3-1f84-1be3-1892d056b74d",
+  "publishingstateid": "a6962af8-c08b-42b7-87f7-955e11e268d3",
+  "displaypagevalidation": false,
+  "displayimageonly": false,
+  "displaypagechildlinks": false,
+  "openinnewwindow": false,
+  "robotsfollowlink": true
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Cinema Gear-deleted</name>
+  <powerpagecomponenttype>5</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</powerpagecomponent>

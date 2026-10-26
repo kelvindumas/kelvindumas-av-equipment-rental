@@ -1,0 +1,12 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="ae1eedd9-8343-452c-bd86-c9371244597f">
+    <content>{"defaultlanguage":"516cdf3e-8ed3-4925-8ed4-4994eeda09da","footerwebtemplateid":"0bf794d1-1855-4a5b-8eed-c087f31cff7f","headerwebtemplateid":"87d99cd8-8795-49ec-bc7c-c250268fb841","website_language":1033,"defaultbotconsumerid":"e18d36dc-20b1-f111-aaac-7ced8d770f9f"}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <enhancedauthorization>0</enhancedauthorization>
+    <iscustomizable>1</iscustomizable>
+    <name>AV Equipment Rental - site-fbxdo</name>
+    <primarydomainname>site-fbxdo.powerappsportals.com</primarydomainname>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>

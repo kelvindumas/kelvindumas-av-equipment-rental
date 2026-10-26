@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="e18d36dc-20b1-f111-aaac-7ced8d770f9f">
+  <content>{"botschemaname":"crc3c_deb522f9-5353-4424-940e-85f71bff0096","configjson":"{\"skillConfigViewName\":\"AV Equipment Rental bot Answers\",\"botSchemaName\":\"crc3c_deb522f9-5353-4424-940e-85f71bff0096\",\"version\":\"v2\",\"isVisible\":true}","adx_botconsumer_adx_webrole":[]}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Bot Consumer</name>
+  <powerpagecomponenttype>27</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

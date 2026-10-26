@@ -1,0 +1,9 @@
+<dvtablesearchentity dvtablesearchentityid="e54b9027-c8af-f111-aaac-000d3ad7a66b">
+  <dvtablesearch>
+    <dvtablesearchid>1fc20715-c5aa-f111-aaac-70a8a52ad43d</dvtablesearchid>
+  </dvtablesearch>
+  <entitylogicalname>kav_rentalinvoice</entitylogicalname>
+  <iscustomizable>1</iscustomizable>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</dvtablesearchentity>

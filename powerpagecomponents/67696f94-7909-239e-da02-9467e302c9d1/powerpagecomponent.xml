@@ -1,0 +1,152 @@
+<powerpagecomponent powerpagecomponentid="67696f94-7909-239e-da02-9467e302c9d1">
+  <content>{
+  "displayorder": 3,
+  "customcss": "",
+  "customjavascript": "",
+  "pagetemplateid": "e13cf035-3902-45f2-b58e-efa1b43de03c",
+  "parentpageid": "436dc4d7-1869-49c3-9c74-d10893a9df68",
+  "partialurl": "Cinema-Gear-deleted",
+  "isroot": false,
+  "rootwebpageid": "a13261a1-85a3-1f84-1be3-1892d056b74d",
+  "title": "Cinema Gear",
+  "summary": "&lt;p&gt;This is a sample landing page designed to be a starting point for your website&lt;/p&gt;",
+  "copy": "&lt;div data-component-theme=\"portalThemeColor8\" id=\"ir0jng\" class=\"row sectionBlockLayout\" style='padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: 60vh; background-image: url(\"/Cinema-3.jpg\"); background-position: center center; background-repeat: no-repeat; background-size: cover;'&gt;\n  &lt;div class=\"container\"&gt;\n    &lt;div id=\"icdeyj\" class=\"col-md-12 columnBlockLayout\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; justify-content: center; margin: 120px 0px;\"&gt;\n      &lt;h1 id=\"ihlew1\" style=\"color: white; font-weight: bold; text-align: center;\"&gt;Professional cinema gear, ready when you are&lt;/h1&gt;\n      &lt;p id=\"ii9l4e\" style=\"color: white; font-size: 1.25rem; text-align: center; max-width: 700px; margin: 20px auto;\"&gt;Explore our premium selection of cinema cameras, lenses, and accessories designed to elevate your production quality. Whether you're shooting a feature film or a commercial, our equipment is reliable and ready to perform.&lt;/p&gt;\n      &lt;div id=\"ih680h\" style=\"text-align: center; margin-top: 30px;\"&gt;&lt;button id=\"iojnoi\" class=\"button1\" style=\"margin-right: 20px; padding: 12px 24px; font-size: 1rem;\"&gt;Browse Equipment&lt;/button&gt;&lt;button id=\"ierd29\" class=\"button1\" style=\"padding: 12px 24px; font-size: 1rem;\"&gt;Request a Rental&lt;/button&gt;&lt;/div&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div id=\"ioc5ht\" class=\"row sectionBlockLayout\" style=\"padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: auto;\"&gt;\n  &lt;div class=\"container\"&gt;\n    &lt;div id=\"idie3k\" class=\"col-md-6 columnBlockLayout\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 40px 0px; padding: 30px;\"&gt;\n      &lt;h2&gt;Top-Tier Cinema Cameras&lt;/h2&gt;\n      &lt;p&gt;Choose from the latest models featuring cutting-edge technology and superior image quality. Our cameras are maintained to the highest standards to ensure flawless performance on set.&lt;/p&gt;\n      &lt;button class=\"button1\"&gt;Explore Cameras&lt;/button&gt;\n    &lt;/div&gt;\n    &lt;div id=\"iz9gkg\" class=\"col-md-6 columnBlockLayout\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 40px 0px; padding: 30px;\"&gt;&lt;img alt=\"Cinema camera with lens and monitor\" src=\"/Cinema.jpg\" id=\"iaj6kl\" style=\"max-width: 100%; width: 100%; height: auto; border-radius: 6px;\" /&gt;&lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div id=\"iwg27h\" class=\"row sectionBlockLayout\" style=\"padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: auto;\"&gt;\n  &lt;div class=\"container\"&gt;\n    &lt;div id=\"inxbmj\" class=\"col-md-6 columnBlockLayout\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 40px 0px; padding: 30px;\"&gt;&lt;img alt=\"Professional cinema lenses arranged on table\" src=\"/Cinema-2.jpg\" id=\"i0tw73\" style=\"max-width: 100%; width: 100%; height: auto; border-radius: 6px;\" /&gt;&lt;/div&gt;\n    &lt;div id=\"ilo39o\" class=\"col-md-6 columnBlockLayout\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 40px 0px; padding: 30px;\"&gt;\n      &lt;h2&gt;Precision Lenses &amp;amp; Accessories&lt;/h2&gt;\n      &lt;p&gt;Enhance your shots with our range of high-quality lenses and essential accessories. From wide-angle to telephoto, find the perfect gear to capture your vision.&lt;/p&gt;\n      &lt;button class=\"button1\"&gt;Shop Lenses&lt;/button&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div id=\"i72d7d\" class=\"row sectionBlockLayout text-start\" style=\"display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;\"&gt;\n  &lt;div id=\"imlk8h\" class=\"container\" style=\"padding: 0px; display: flex; flex-wrap: wrap;\"&gt;&lt;div id=\"imozvk\" class=\"col-lg-12 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div data-component-theme=\"portalThemeColor8\" id=\"ig5mal\" class=\"row sectionBlockLayout\" style='padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: 60vh; background-image: url(\"/Gear.jpg\"); background-position: center center; background-repeat: no-repeat; background-size: cover;'&gt;\n  &lt;div class=\"container\"&gt;\n    &lt;div id=\"in4sfb\" class=\"col-md-12 columnBlockLayout\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 180px 0px;\"&gt;&lt;h1 id=\"iodm5k\" style=\"text-align: center; color: white; text-shadow: 2px 2px 6px rgba(0,0,0,0.7);\"&gt;Explore Our Gear&lt;/h1&gt;&lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div id=\"itaiyp\" class=\"row sectionBlockLayout text-start\" style=\"display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;\"&gt;\n  &lt;div id=\"ie3mgf\" class=\"container\" style=\"padding: 0px; display: flex; flex-wrap: wrap;\"&gt;&lt;div id=\"i0hmac\" class=\"col-lg-12 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div data-component-theme=\"portalThemeColor\" class=\"row sectionBlockLayout\" id=\"ido23z\" style=\"margin: 0px; display: flex; flex-wrap: wrap; min-height: auto; padding: 20px 0px;\"&gt;\n  &lt;div class=\"container\" id=\"i08p55\" style=\"display: flex; flex-wrap: wrap; gap: 20px;\"&gt;\n    &lt;div class=\"col-md-4 columnBlockLayout\" id=\"ihany3\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;\"&gt;\n      &lt;img alt=\"Excavator machine in action\" src=\"/Equipment-4.jpg\" id=\"iacrmy\" style=\"max-width: 100%; width: 100%; height: auto; border-radius: 6px;\" /&gt;\n      &lt;h3&gt;Hydraulic Excavator&lt;/h3&gt;\n      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; Titan Equip&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Earthmoving&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $350&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Available&lt;/p&gt;\n      &lt;button class=\"button1\"&gt;Rent Now&lt;/button&gt;\n    &lt;/div&gt;\n    &lt;div class=\"col-md-4 columnBlockLayout\" id=\"i17ozs\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;\"&gt;\n      &lt;img alt=\"Compact skid steer loader\" src=\"/Equipment-5.jpg\" id=\"imfmnh\" style=\"max-width: 100%; width: 100%; height: auto; border-radius: 6px;\" /&gt;\n      &lt;h3&gt;Skid Steer Loader&lt;/h3&gt;\n      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; ProLift&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Material Handling&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $180&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Limited&lt;/p&gt;\n      &lt;button class=\"button1\"&gt;Rent Now&lt;/button&gt;\n    &lt;/div&gt;\n    &lt;div class=\"col-md-4 columnBlockLayout\" id=\"i6ogzk\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;\"&gt;\n      &lt;img alt=\"Heavy duty bulldozer on site\" src=\"/Equipment-6.jpg\" id=\"i1xgsw\" style=\"max-width: 100%; width: 100%; height: auto; border-radius: 6px;\" /&gt;\n      &lt;h3&gt;Bulldozer D9&lt;/h3&gt;\n      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; EarthMover Co.&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Earthmoving&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $400&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Available&lt;/p&gt;\n      &lt;button class=\"button1\"&gt;Rent Now&lt;/button&gt;\n    &lt;/div&gt;\n    &lt;div class=\"col-md-4 columnBlockLayout\" id=\"i930kh\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;\"&gt;\n      &lt;img alt=\"Portable generator on construction site\" src=\"/Equipment-7.jpg\" id=\"iimw6b\" style=\"max-width: 100%; width: 100%; height: auto; border-radius: 6px;\" /&gt;\n      &lt;h3&gt;Portable Generator&lt;/h3&gt;\n      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; PowerMax&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Power Equipment&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $90&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Available&lt;/p&gt;\n      &lt;button class=\"button1\"&gt;Rent Now&lt;/button&gt;\n    &lt;/div&gt;\n    &lt;div class=\"col-md-4 columnBlockLayout\" id=\"ixjav6\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;\"&gt;\n      &lt;img alt=\"Heavy duty concrete mixer\" src=\"/Equipment-8.jpg\" id=\"ipg5bh\" style=\"max-width: 100%; width: 100%; height: auto; border-radius: 6px;\" /&gt;\n      &lt;h3&gt;Concrete Mixer&lt;/h3&gt;\n      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; BuildRight&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Construction Tools&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $120&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Limited&lt;/p&gt;\n      &lt;button class=\"button1\"&gt;Rent Now&lt;/button&gt;\n    &lt;/div&gt;\n    &lt;div class=\"col-md-4 columnBlockLayout\" id=\"it1itk\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;\"&gt;\n      &lt;img alt=\"Telescopic forklift lifting materials\" src=\"/Equipment-9.jpg\" id=\"i9bc5f\" style=\"max-width: 100%; width: 100%; height: auto; border-radius: 6px;\" /&gt;\n      &lt;h3&gt;Telescopic Forklift&lt;/h3&gt;\n      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; LiftPro&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Material Handling&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $250&lt;/p&gt;\n      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Available&lt;/p&gt;\n      &lt;button class=\"button1\"&gt;Rent Now&lt;/button&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div id=\"isegot\" class=\"row sectionBlockLayout text-start\" style=\"display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;\"&gt;\n  &lt;div class=\"container\" id=\"ixri8m\" style=\"padding: 0px; display: flex; flex-wrap: wrap;\"&gt;&lt;div class=\"col-lg-12 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;\"&gt;&lt;/div&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;div data-component-theme=\"portalThemeColor8\" class=\"row sectionBlockLayout\" id=\"iipj66\" style='padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: 60vh; background-image: url(\"/Rental.jpg\"); background-position: center center; background-repeat: no-repeat; background-size: cover;'&gt;\n  &lt;div class=\"container\"&gt;\n    &lt;div class=\"col-md-12 columnBlockLayout\" id=\"ip9a5d\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 180px 0px;\"&gt;\n      &lt;h1 id=\"iru0jl\" style=\"text-align: center; color: white; text-shadow: 1px 1px 4px rgba(0,0,0,0.7);\"&gt;How It Works&lt;/h1&gt;\n      &lt;p id=\"i3c3zd\" style=\"text-align: center; color: white; font-size: 1.2rem; max-width: 600px; margin: 0 auto; text-shadow: 1px 1px 3px rgba(0,0,0,0.6);\"&gt;Follow these simple steps to get started with your adventure rental.&lt;/p&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div id=\"i75bcl\" class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;\"&gt;&lt;/div&gt;\n&lt;div data-component-theme=\"portalThemeColor\" id=\"i3il6l\" class=\"row sectionBlockLayout\" style=\"padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: 200px; background-color: rgb(248, 249, 250);\"&gt;\n  &lt;div class=\"container\"&gt;\n    &lt;div class=\"col-md-12 columnBlockLayout\" id=\"ick1zp\" style=\"min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 60px 20px;\"&gt;\n      &lt;h2 id=\"iaeizg\" style=\"font-weight: 700; font-size: 2.5rem; text-align: center; color: #2c2c54; margin-bottom: 20px;\"&gt;Ready for your next production?&lt;/h2&gt;\n      &lt;p id=\"ihc262\" style=\"font-size: 1.2rem; text-align: center; max-width: 600px; color: #555; margin-bottom: 30px;\"&gt;Explore our extensive range of high-quality equipment designed to bring your creative vision to life. Whether you're filming, recording, or producing, we have the tools you need to succeed.&lt;/p&gt;\n      &lt;button class=\"button1\" id=\"i4pwyr\" style=\"background-color: #6a0dad; color: #fff; border: none; padding: 15px 40px; font-size: 1.1rem; border-radius: 6px; cursor: pointer;\"&gt;Browse equipment&lt;/button&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n",
+  "publishingstateid": "a6962af8-c08b-42b7-87f7-955e11e268d3",
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "hiddenfromsitemap": true,
+  "sharedpageconfiguration": false
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Cinema Gear-deleted</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>516cdf3e-8ed3-4925-8ed4-4994eeda09da</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <searchcontent>Cinema Gear&lt;div data-component-theme="portalThemeColor8" id="ir0jng" class="row sectionBlockLayout" style='padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: 60vh; background-image: url("/Cinema-3.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover;'&gt;
+  &lt;div class="container"&gt;
+    &lt;div id="icdeyj" class="col-md-12 columnBlockLayout" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; justify-content: center; margin: 120px 0px;"&gt;
+      &lt;h1 id="ihlew1" style="color: white; font-weight: bold; text-align: center;"&gt;Professional cinema gear, ready when you are&lt;/h1&gt;
+      &lt;p id="ii9l4e" style="color: white; font-size: 1.25rem; text-align: center; max-width: 700px; margin: 20px auto;"&gt;Explore our premium selection of cinema cameras, lenses, and accessories designed to elevate your production quality. Whether you're shooting a feature film or a commercial, our equipment is reliable and ready to perform.&lt;/p&gt;
+      &lt;div id="ih680h" style="text-align: center; margin-top: 30px;"&gt;&lt;button id="iojnoi" class="button1" style="margin-right: 20px; padding: 12px 24px; font-size: 1rem;"&gt;Browse Equipment&lt;/button&gt;&lt;button id="ierd29" class="button1" style="padding: 12px 24px; font-size: 1rem;"&gt;Request a Rental&lt;/button&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="ioc5ht" class="row sectionBlockLayout" style="padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: auto;"&gt;
+  &lt;div class="container"&gt;
+    &lt;div id="idie3k" class="col-md-6 columnBlockLayout" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 40px 0px; padding: 30px;"&gt;
+      &lt;h2&gt;Top-Tier Cinema Cameras&lt;/h2&gt;
+      &lt;p&gt;Choose from the latest models featuring cutting-edge technology and superior image quality. Our cameras are maintained to the highest standards to ensure flawless performance on set.&lt;/p&gt;
+      &lt;button class="button1"&gt;Explore Cameras&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div id="iz9gkg" class="col-md-6 columnBlockLayout" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 40px 0px; padding: 30px;"&gt;&lt;img alt="Cinema camera with lens and monitor" src="/Cinema.jpg" id="iaj6kl" style="max-width: 100%; width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="iwg27h" class="row sectionBlockLayout" style="padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: auto;"&gt;
+  &lt;div class="container"&gt;
+    &lt;div id="inxbmj" class="col-md-6 columnBlockLayout" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 40px 0px; padding: 30px;"&gt;&lt;img alt="Professional cinema lenses arranged on table" src="/Cinema-2.jpg" id="i0tw73" style="max-width: 100%; width: 100%; height: auto; border-radius: 6px;" /&gt;&lt;/div&gt;
+    &lt;div id="ilo39o" class="col-md-6 columnBlockLayout" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 40px 0px; padding: 30px;"&gt;
+      &lt;h2&gt;Precision Lenses &amp;amp; Accessories&lt;/h2&gt;
+      &lt;p&gt;Enhance your shots with our range of high-quality lenses and essential accessories. From wide-angle to telephoto, find the perfect gear to capture your vision.&lt;/p&gt;
+      &lt;button class="button1"&gt;Shop Lenses&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="i72d7d" class="row sectionBlockLayout text-start" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;"&gt;
+  &lt;div id="imlk8h" class="container" style="padding: 0px; display: flex; flex-wrap: wrap;"&gt;&lt;div id="imozvk" class="col-lg-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-component-theme="portalThemeColor8" id="ig5mal" class="row sectionBlockLayout" style='padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: 60vh; background-image: url("/Gear.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover;'&gt;
+  &lt;div class="container"&gt;
+    &lt;div id="in4sfb" class="col-md-12 columnBlockLayout" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 180px 0px;"&gt;&lt;h1 id="iodm5k" style="text-align: center; color: white; text-shadow: 2px 2px 6px rgba(0,0,0,0.7);"&gt;Explore Our Gear&lt;/h1&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="itaiyp" class="row sectionBlockLayout text-start" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;"&gt;
+  &lt;div id="ie3mgf" class="container" style="padding: 0px; display: flex; flex-wrap: wrap;"&gt;&lt;div id="i0hmac" class="col-lg-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-component-theme="portalThemeColor" class="row sectionBlockLayout" id="ido23z" style="margin: 0px; display: flex; flex-wrap: wrap; min-height: auto; padding: 20px 0px;"&gt;
+  &lt;div class="container" id="i08p55" style="display: flex; flex-wrap: wrap; gap: 20px;"&gt;
+    &lt;div class="col-md-4 columnBlockLayout" id="ihany3" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;"&gt;
+      &lt;img alt="Excavator machine in action" src="/Equipment-4.jpg" id="iacrmy" style="max-width: 100%; width: 100%; height: auto; border-radius: 6px;" /&gt;
+      &lt;h3&gt;Hydraulic Excavator&lt;/h3&gt;
+      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; Titan Equip&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Earthmoving&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $350&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Available&lt;/p&gt;
+      &lt;button class="button1"&gt;Rent Now&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="col-md-4 columnBlockLayout" id="i17ozs" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;"&gt;
+      &lt;img alt="Compact skid steer loader" src="/Equipment-5.jpg" id="imfmnh" style="max-width: 100%; width: 100%; height: auto; border-radius: 6px;" /&gt;
+      &lt;h3&gt;Skid Steer Loader&lt;/h3&gt;
+      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; ProLift&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Material Handling&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $180&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Limited&lt;/p&gt;
+      &lt;button class="button1"&gt;Rent Now&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="col-md-4 columnBlockLayout" id="i6ogzk" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;"&gt;
+      &lt;img alt="Heavy duty bulldozer on site" src="/Equipment-6.jpg" id="i1xgsw" style="max-width: 100%; width: 100%; height: auto; border-radius: 6px;" /&gt;
+      &lt;h3&gt;Bulldozer D9&lt;/h3&gt;
+      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; EarthMover Co.&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Earthmoving&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $400&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Available&lt;/p&gt;
+      &lt;button class="button1"&gt;Rent Now&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="col-md-4 columnBlockLayout" id="i930kh" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;"&gt;
+      &lt;img alt="Portable generator on construction site" src="/Equipment-7.jpg" id="iimw6b" style="max-width: 100%; width: 100%; height: auto; border-radius: 6px;" /&gt;
+      &lt;h3&gt;Portable Generator&lt;/h3&gt;
+      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; PowerMax&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Power Equipment&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $90&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Available&lt;/p&gt;
+      &lt;button class="button1"&gt;Rent Now&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="col-md-4 columnBlockLayout" id="ixjav6" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;"&gt;
+      &lt;img alt="Heavy duty concrete mixer" src="/Equipment-8.jpg" id="ipg5bh" style="max-width: 100%; width: 100%; height: auto; border-radius: 6px;" /&gt;
+      &lt;h3&gt;Concrete Mixer&lt;/h3&gt;
+      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; BuildRight&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Construction Tools&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $120&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Limited&lt;/p&gt;
+      &lt;button class="button1"&gt;Rent Now&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;div class="col-md-4 columnBlockLayout" id="it1itk" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; border: 1px solid rgb(221, 221, 221); border-radius: 8px; padding: 15px;"&gt;
+      &lt;img alt="Telescopic forklift lifting materials" src="/Equipment-9.jpg" id="i9bc5f" style="max-width: 100%; width: 100%; height: auto; border-radius: 6px;" /&gt;
+      &lt;h3&gt;Telescopic Forklift&lt;/h3&gt;
+      &lt;p&gt;&lt;strong&gt;Brand:&lt;/strong&gt; LiftPro&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; Material Handling&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Daily Price:&lt;/strong&gt; $250&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Availability:&lt;/strong&gt; Available&lt;/p&gt;
+      &lt;button class="button1"&gt;Rent Now&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="isegot" class="row sectionBlockLayout text-start" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;"&gt;
+  &lt;div class="container" id="ixri8m" style="padding: 0px; display: flex; flex-wrap: wrap;"&gt;&lt;div class="col-lg-12 columnBlockLayout" style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div data-component-theme="portalThemeColor8" class="row sectionBlockLayout" id="iipj66" style='padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: 60vh; background-image: url("/Rental.jpg"); background-position: center center; background-repeat: no-repeat; background-size: cover;'&gt;
+  &lt;div class="container"&gt;
+    &lt;div class="col-md-12 columnBlockLayout" id="ip9a5d" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; margin: 180px 0px;"&gt;
+      &lt;h1 id="iru0jl" style="text-align: center; color: white; text-shadow: 1px 1px 4px rgba(0,0,0,0.7);"&gt;How It Works&lt;/h1&gt;
+      &lt;p id="i3c3zd" style="text-align: center; color: white; font-size: 1.2rem; max-width: 600px; margin: 0 auto; text-shadow: 1px 1px 3px rgba(0,0,0,0.6);"&gt;Follow these simple steps to get started with your adventure rental.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="i75bcl" class="row sectionBlockLayout" style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"&gt;&lt;/div&gt;
+&lt;div data-component-theme="portalThemeColor" id="i3il6l" class="row sectionBlockLayout" style="padding: 8px; margin: 0px; display: flex; flex-wrap: wrap; min-height: 200px; background-color: rgb(248, 249, 250);"&gt;
+  &lt;div class="container"&gt;
+    &lt;div class="col-md-12 columnBlockLayout" id="ick1zp" style="min-width: 250px; flex-grow: 1; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 60px 20px;"&gt;
+      &lt;h2 id="iaeizg" style="font-weight: 700; font-size: 2.5rem; text-align: center; color: #2c2c54; margin-bottom: 20px;"&gt;Ready for your next production?&lt;/h2&gt;
+      &lt;p id="ihc262" style="font-size: 1.2rem; text-align: center; max-width: 600px; color: #555; margin-bottom: 30px;"&gt;Explore our extensive range of high-quality equipment designed to bring your creative vision to life. Whether you're filming, recording, or producing, we have the tools you need to succeed.&lt;/p&gt;
+      &lt;button class="button1" id="i4pwyr" style="background-color: #6a0dad; color: #fff; border: none; padding: 15px 40px; font-size: 1.1rem; border-radius: 6px; cursor: pointer;"&gt;Browse equipment&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+Cinema Gear-deleted</searchcontent>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</powerpagecomponent>

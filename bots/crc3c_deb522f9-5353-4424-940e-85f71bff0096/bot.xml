@@ -1,0 +1,14 @@
+<bot schemaname="crc3c_deb522f9-5353-4424-940e-85f71bff0096">
+  <authenticationconfiguration>{
+  "$kind": "BotAuthenticationConfiguration",
+  "connectionName": "18b668ec-d149-40d2-b731-31007cb24760"
+}</authenticationconfiguration>
+  <authenticationmode>4</authenticationmode>
+  <authenticationtrigger>1</authenticationtrigger>
+  <iscustomizable>1</iscustomizable>
+  <language>1033</language>
+  <name>AV Equipment Rental bot</name>
+  <runtimeprovider>0</runtimeprovider>
+  <template>powerpages-1.0.0</template>
+  <timezoneruleversionnumber>4</timezoneruleversionnumber>
+</bot>

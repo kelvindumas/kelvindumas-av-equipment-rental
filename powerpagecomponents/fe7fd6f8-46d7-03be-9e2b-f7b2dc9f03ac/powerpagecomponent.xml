@@ -1,0 +1,19 @@
+<powerpagecomponent powerpagecomponentid="fe7fd6f8-46d7-03be-9e2b-f7b2dc9f03ac">
+  <content>{
+  "filecontent": null,
+  "type": 756150000,
+  "display_name": "Site name",
+  "value": ""
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Site name</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>516cdf3e-8ed3-4925-8ed4-4994eeda09da</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

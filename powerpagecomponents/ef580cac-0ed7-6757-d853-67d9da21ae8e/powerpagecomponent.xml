@@ -1,0 +1,22 @@
+<powerpagecomponent powerpagecomponentid="ef580cac-0ed7-6757-d853-67d9da21ae8e">
+  <content>{
+  "filecontent": null,
+  "displayorder": 2,
+  "weblinksetid": "ca1ec4b2-2d0e-4d99-984d-b67f2b950a36",
+  "pageid": "2b04862f-35d6-b80e-5fb4-cc0459406650",
+  "publishingstateid": "a6962af8-c08b-42b7-87f7-955e11e268d3",
+  "displaypagevalidation": false,
+  "displayimageonly": false,
+  "displaypagechildlinks": false,
+  "openinnewwindow": false,
+  "robotsfollowlink": true
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Request a rental-deleted</name>
+  <powerpagecomponenttype>5</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>ae1eedd9-8343-452c-bd86-c9371244597f</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</powerpagecomponent>
